@@ -1,0 +1,21 @@
+{
+    "name": "Toko Kelontongan Sugih",
+    "short_name": "Toko Kelontongan",
+    "description": "Membuat Aplikasi Toko Grosir sederhana dengan javascript PWA ",
+    "icons": [{
+            "src": "assets/images/icon.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/icon.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1F3641",
+    "background_color": "#ffffff",
+    "prefer_related_applications": false
+}
